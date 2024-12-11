@@ -112,4 +112,4 @@ docker run -p 8080:8080 file-stream-bot
 
 ## ❤️ Credits & Thanks
 
-[**Dr.Caduceus**](https://github.com/ZxLbni): Owner & developer of File Stream Bot.
+[**Noob**](https://github.com/ZxLbni): Owner & developer of File Stream Bot.

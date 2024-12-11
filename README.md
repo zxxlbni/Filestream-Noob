@@ -1,7 +1,7 @@
 <div align="center"><h1>🌐File Stream Bot</h1>
 <b>An open-source Python Telegram bot to transmit Telegram files over HTTP.</b>
 
-<a href="https://t.me/DrFileStreamBot"><b>Demo Bot</b></a>
+<a href="https://t.me/FILETOLINK5_ROBOT"><b>Demo Bot</b></a>
 </div><br>
 
 ## **📑 INDEX**
@@ -48,13 +48,13 @@ pkg install git -y
 
 **2.Download repository:**
 ```
-git clone https://github.com/TheCaduceus/FileStreamBot.git
+git clone https://github.com/ZxLbni/Filestream-Noob.git
 ```
 
 **3.Change Directory:**
 
 ```
-cd FileStreamBot
+cd Filestream-Noob
 ```
 
 <a name="i-3"></a>
@@ -106,10 +106,10 @@ docker run -p 8080:8080 file-stream-bot
 <a name="help"></a>
 
 ## ⛑️ Need help!
-- Ask questions or doubts [here](https://t.me/DrDiscussion).
+- Ask questions or doubts [here](https://t.me/noobmethod).
 
 <a name="credits"></a>
 
 ## ❤️ Credits & Thanks
 
-[**Dr.Caduceus**](https://github.com/TheCaduceus): Owner & developer of File Stream Bot.
+[**Dr.Caduceus**](https://github.com/ZxLbni): Owner & developer of File Stream Bot.

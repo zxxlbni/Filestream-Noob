@@ -20,4 +20,3 @@ if __name__ == '__main__':
     load_plugins()
     logger.info('Bot is now ready!')
     TelegramBot.run_until_disconnected()
-  

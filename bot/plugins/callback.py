@@ -22,4 +22,3 @@ async def delete_file(event: CallbackQuery.Event):
     await message.delete()
 
     return await event.answer(LinkRevokedText, alert=True)
-  

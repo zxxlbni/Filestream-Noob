@@ -18,4 +18,3 @@ def verify_user(private: bool = False):
 
         return wrapper
     return decorator
-  
